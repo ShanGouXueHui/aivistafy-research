@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.4 - 2026-04-10
+- upgrade ANALYSIS_PRINCIPLES_SERES.md with two new dimensions:
+  - policy / national-team / ETF stabilizer
+  - capital-layer / support-strength analysis
+- upgrade MARKET_FRAMEWORK.md to distinguish:
+  - index stabilizer
+  - individual-stock support
+  - passive support vs active trend
+- add MODEL_STABILIZATION_AND_ORDERFLOW.md
+- formalize passive support, support-strength tiers, and capital-layer framework
+
 ## v1.3 - 2026-04-08
 - add METHOD_AH_COST_MODEL.md
 - add MODEL_UPGRADE_2026_Q2.md

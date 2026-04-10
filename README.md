@@ -15,6 +15,7 @@ Structured investment research system for long-term, multi-dimensional analysis.
 ### Models
 - docs/METHOD_AH_COST_MODEL.md
 - docs/MODEL_UPGRADE_2026_Q2.md
+- docs/MODEL_STABILIZATION_AND_ORDERFLOW.md
 
 ### Predictions / Backtests
 - docs/PREDICTIONS_SERES_2026_Q2.md
