@@ -1,8 +1,29 @@
 # Changelog
 
+## v1.3 - 2026-04-08
+- add METHOD_AH_COST_MODEL.md
+- add MODEL_UPGRADE_2026_Q2.md
+- add PREDICTIONS_SERES_2026_Q2.md
+- add PREDICTION_BACKTEST_SERES_2026_Q2.md
+- refresh README index
+- formalize geopolitical transmission model
+- formalize A/H cost-zone model
+- formalize orderflow / capital-layer model
+- formalize prediction -> backtest -> model update workflow
+
+## v1.2 - 2026-04-02
+- add A/H cost-zone and prediction logic into research workflow
+- add medium-term interval prediction structure
+- add Hong Kong vs A-share pricing difference logic
+
+## v1.1 - 2026-04-01
+- add funding-structure observations
+- add growth-slope repricing logic
+- add case-study level conclusions for Seres
+
 ## v1.0 - 2026-03-31
-- 初始化研究仓库
-- 新增赛力斯分析原则
-- 新增赛力斯案例沉淀（2026 Q1）
-- 新增市场通用分析框架
-- 新增标准分析模板
+- initialize research repo
+- add seres analysis principles
+- add seres case study (2026 Q1)
+- add market framework
+- add analysis template
