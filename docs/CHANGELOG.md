@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.6 - 2026-04-30
+- align ANALYSIS_PRINCIPLES_SERES.md with valuation, beta-growth, and model hierarchy rules
+- upgrade MARKET_FRAMEWORK.md from four-layer to five-layer framework by adding asset-type classification
+- add profit-quality repricing as a separate downtrend category
+- align MODEL_UPGRADE_2026_Q2.md with specialized model ownership rules
+- clarify file conflict resolution priority:
+  - specialized model file first
+  - later updated file second
+  - general principle file last
+- ensure headline profit, core profit, normalized earnings, and value-investing boundaries are consistently reflected across core docs
+
 ## v1.5 - 2026-04-30
 - add MODEL_VALUATION_BETA_GARP_SERES.md
 - formalize beta-growth stock definition and judgment standards
