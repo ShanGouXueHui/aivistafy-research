@@ -16,6 +16,7 @@ Structured investment research system for long-term, multi-dimensional analysis.
 - docs/METHOD_AH_COST_MODEL.md
 - docs/MODEL_UPGRADE_2026_Q2.md
 - docs/MODEL_STABILIZATION_AND_ORDERFLOW.md
+- docs/MODEL_VALUATION_BETA_GARP_SERES.md
 
 ### Predictions / Backtests
 - docs/PREDICTIONS_SERES_2026_Q2.md
@@ -33,6 +34,8 @@ Structured investment research system for long-term, multi-dimensional analysis.
 - No single-point conclusions
 - Fact / Inference / Assumption / Risk separation
 - Backtest and model iteration required
+- Valuation must distinguish headline profit, core profit, normalized earnings, and cash-flow quality
+- Growth-stock analysis must separate beta exposure, alpha drivers, and value-investing boundaries
 
 ## Goal
 Turn investment thinking into a reusable and verifiable research system.
